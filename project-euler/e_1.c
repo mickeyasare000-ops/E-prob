@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main(){
     // In order to add multiples between 3 or 5: make sure that the numbers are divisible without a remainder.
-    int i = 1;
+    int i = ;
     
     int sum = 0;
   printf("Enter lowest limit here:");
